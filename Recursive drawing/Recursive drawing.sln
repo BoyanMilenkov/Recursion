@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive drawing", "Recursive drawing.csproj", "{5A946886-AD45-4399-9DF2-B35B31BD1951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse recursion", "..\Reverse recursion\Reverse recursion.csproj", "{DEE28B61-C1F3-4D2D-B54E-B3339E8178BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nested loops to recursion", "..\nested loops to recursion\nested loops to recursion.csproj", "{34F988DF-6DB5-4C26-A316-4F9097FE0162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A946886-AD45-4399-9DF2-B35B31BD1951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A946886-AD45-4399-9DF2-B35B31BD1951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A946886-AD45-4399-9DF2-B35B31BD1951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A946886-AD45-4399-9DF2-B35B31BD1951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE28B61-C1F3-4D2D-B54E-B3339E8178BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE28B61-C1F3-4D2D-B54E-B3339E8178BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE28B61-C1F3-4D2D-B54E-B3339E8178BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE28B61-C1F3-4D2D-B54E-B3339E8178BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F988DF-6DB5-4C26-A316-4F9097FE0162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F988DF-6DB5-4C26-A316-4F9097FE0162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F988DF-6DB5-4C26-A316-4F9097FE0162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F988DF-6DB5-4C26-A316-4F9097FE0162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96E33AF6-095A-44FA-B14D-F8546A7274E5}
+	EndGlobalSection
+EndGlobal

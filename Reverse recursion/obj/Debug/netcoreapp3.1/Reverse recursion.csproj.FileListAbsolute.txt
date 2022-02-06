@@ -1,0 +1,13 @@
+E:\BOBO\C#\Reverse recursion\bin\Debug\netcoreapp3.1\Reverse recursion.exe
+E:\BOBO\C#\Reverse recursion\bin\Debug\netcoreapp3.1\Reverse recursion.deps.json
+E:\BOBO\C#\Reverse recursion\bin\Debug\netcoreapp3.1\Reverse recursion.runtimeconfig.json
+E:\BOBO\C#\Reverse recursion\bin\Debug\netcoreapp3.1\Reverse recursion.runtimeconfig.dev.json
+E:\BOBO\C#\Reverse recursion\bin\Debug\netcoreapp3.1\Reverse recursion.dll
+E:\BOBO\C#\Reverse recursion\bin\Debug\netcoreapp3.1\Reverse recursion.pdb
+E:\BOBO\C#\Reverse recursion\obj\Debug\netcoreapp3.1\Reverse recursion.csproj.AssemblyReference.cache
+E:\BOBO\C#\Reverse recursion\obj\Debug\netcoreapp3.1\Reverse recursion.AssemblyInfoInputs.cache
+E:\BOBO\C#\Reverse recursion\obj\Debug\netcoreapp3.1\Reverse recursion.AssemblyInfo.cs
+E:\BOBO\C#\Reverse recursion\obj\Debug\netcoreapp3.1\Reverse recursion.csproj.CoreCompileInputs.cache
+E:\BOBO\C#\Reverse recursion\obj\Debug\netcoreapp3.1\Reverse recursion.dll
+E:\BOBO\C#\Reverse recursion\obj\Debug\netcoreapp3.1\Reverse recursion.pdb
+E:\BOBO\C#\Reverse recursion\obj\Debug\netcoreapp3.1\Reverse recursion.genruntimeconfig.cache

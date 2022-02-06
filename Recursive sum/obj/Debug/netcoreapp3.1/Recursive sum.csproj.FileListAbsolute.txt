@@ -1,0 +1,13 @@
+E:\BOBO\C#\Recursive sum\bin\Debug\netcoreapp3.1\Recursive sum.exe
+E:\BOBO\C#\Recursive sum\bin\Debug\netcoreapp3.1\Recursive sum.deps.json
+E:\BOBO\C#\Recursive sum\bin\Debug\netcoreapp3.1\Recursive sum.runtimeconfig.json
+E:\BOBO\C#\Recursive sum\bin\Debug\netcoreapp3.1\Recursive sum.runtimeconfig.dev.json
+E:\BOBO\C#\Recursive sum\bin\Debug\netcoreapp3.1\Recursive sum.dll
+E:\BOBO\C#\Recursive sum\bin\Debug\netcoreapp3.1\Recursive sum.pdb
+E:\BOBO\C#\Recursive sum\obj\Debug\netcoreapp3.1\Recursive sum.csproj.AssemblyReference.cache
+E:\BOBO\C#\Recursive sum\obj\Debug\netcoreapp3.1\Recursive sum.AssemblyInfoInputs.cache
+E:\BOBO\C#\Recursive sum\obj\Debug\netcoreapp3.1\Recursive sum.AssemblyInfo.cs
+E:\BOBO\C#\Recursive sum\obj\Debug\netcoreapp3.1\Recursive sum.csproj.CoreCompileInputs.cache
+E:\BOBO\C#\Recursive sum\obj\Debug\netcoreapp3.1\Recursive sum.dll
+E:\BOBO\C#\Recursive sum\obj\Debug\netcoreapp3.1\Recursive sum.pdb
+E:\BOBO\C#\Recursive sum\obj\Debug\netcoreapp3.1\Recursive sum.genruntimeconfig.cache
